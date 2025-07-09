@@ -31,7 +31,7 @@ I'm always eager to explore new tools, improve my skills.
 #### Current Journey
 - 🌱 I’m currently learning **ReactJS** and **Next.Js**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about: syahrulmubaroq0505@gmai.com
+- 💬 Ask me about: syahrulmubaroq0505@gmail.com
 
 ---
 
