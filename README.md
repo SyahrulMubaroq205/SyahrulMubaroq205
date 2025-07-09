@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Syahrul Mubaroq
 
 <!--
 **SyahrulMubaroq205/SyahrulMubaroq205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ngoding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFoNXo1cXBmZWtmMTlnN3FldnZtMjR4YzJwN3hneHFqZnFuYXpqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
+)
