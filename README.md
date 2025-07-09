@@ -14,24 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFoNXo1cXBmZWtmMTlnN3FldnZtMjR4YzJwN3hneHFqZnFuYXpqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Ngoding Gif" />
+</p>
 
-![Ngoding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFoNXo1cXBmZWtmMTlnN3FldnZtMjR4YzJwN3hneHFqZnFuYXpqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
-)
+
+---
 
 #### About Me
 I'm a tech enthusiast driven by a deep interest in creating impactful and scalable web applications.
 I specialize in Fullstack Development using technologies like React, Node.js, and Laravel.
 I'm always eager to explore new tools, improve my skills.
 
+---
+
 #### Current Journey
 - 🌱 I’m currently learning **ReactJS** and **Next.Js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about: syahrulmubaroq0505@gmai.com
 
+---
+
 #### Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syahrularc2_?igsh=MWQycWR4czU5cXpteA%3D%3D&utm_source=qr)
 
+---
 
 #### 🚀 Languages and Tools
 
